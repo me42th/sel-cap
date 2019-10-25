@@ -1,0 +1,11 @@
+###
+GET http://localhost:8000/api/user
+accept: application/json
+content-type: application/json
+###
+
+###
+GET http://localhost:8000/api/user/São Paulo
+accept: application/json
+content-type: application/json
+###
