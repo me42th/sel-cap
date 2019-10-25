@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/26856017/67604087-07654600-f751-11e9-9887-9a873c39b935.png)
+
 # Teste Desenvolvedor PHP - David Meth
 
 ## PHP + SQL SERVER
@@ -168,3 +170,6 @@ no Brasil. </p>
 1. Public       **visto em qualquer parte do codigo**
 2. Private      **apenas na classe que foi declarado**
 3. Protected    **apenas na classe que declarou e que extendeu, herança**
+
+
+
