@@ -94,6 +94,9 @@ select funcionario.nome as FUNCIONARIO, funcionario.cidade as ORIGEM , 'São Pau
   <p> Crie um script em SQL para inserir dados em cada tabela. </p>
 </details>
 
+![image](https://user-images.githubusercontent.com/26856017/67603914-99b91a00-f750-11e9-944e-14b08760e956.png)
+
+
 **RESPOSTA**
 ```
 insert into marca values 
