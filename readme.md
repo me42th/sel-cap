@@ -1,6 +1,6 @@
 # Teste Desenvolvedor PHP - David Meth
 
-## PHP :heavy_plus_sign: SQL SERVER
+## PHP + SQL SERVER
 
 <details>
   <summary>QUESTÃO 1</summary>
